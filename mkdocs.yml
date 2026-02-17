@@ -36,22 +36,16 @@ markdown_extensions:
 nav:
    - Home: 'index.md'
 
-   - 'Lab Culture':
+ #  - 'Lab Culture':
 
 
-   - 'Computing and Code':
+ #  - 'Computing and Code':
 
 
-     - 'Klone Guides':
-
-     - 'Raven Guides':
+ #  - 'Databases and Catalogs':
 
 
-
-   - 'Databases and Catalogs':
-
-
-   - 'Protocols':
+ #  - 'Protocols':
 
 
-   - 'Bioinformatic Workflows':
+ #  - 'Bioinformatic Workflows':
