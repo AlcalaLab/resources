@@ -44,3 +44,5 @@ markdown_extensions:
 nav:
   - Home:
     - Introduction: index.md
+  - Lab Culture:
+    - Lab Notebooks: lab_notebooks.md
