@@ -1,5 +1,5 @@
-site_name: Alcalá Lab Handbook
-repo_url: https://github.com/AlcalaLab/resources/
+ite_name: Roberts Lab Handbook
+repo_url: https://github.com/RobertsLab/resources/
 edit_uri: blob/master/docs
 theme:
   name: material
@@ -35,17 +35,3 @@ markdown_extensions:
 
 nav:
    - Home: 'index.md'
-
- #  - 'Lab Culture':
-
-
- #  - 'Computing and Code':
-
-
- #  - 'Databases and Catalogs':
-
-
- #  - 'Protocols':
-
-
- #  - 'Bioinformatic Workflows':
