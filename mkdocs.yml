@@ -1,6 +1,13 @@
+---
+# Project Information
 site_name: Alcalá Lab Handbook
+site_author: Xyrus X. Maurer-Alcalá
+
+# Repository information
 repo_url: https://github.com/AlcalaLab/resources/
 edit_uri: blob/main/docs
+
+# Configuration
 theme:
   name: material
   features:
@@ -33,5 +40,7 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
 
+# Page tree
 nav:
-   - Home: 'index.md'
+  - Home:
+    - Introduction: index.md
