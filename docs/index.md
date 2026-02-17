@@ -61,4 +61,4 @@ Be sure have a look at the following:
 
 - [External Communication & Funding]() - Conferences, community outreach, and funding sources that past and present lab members recommend. Also contains tips on printing posters.
 
-- [Lab Notebooks]() - Links to notebooks of current and past Alcalá Lab members, as well as archived notebooks.
+- [Lab Notebooks](https://alcalalab.github.io/resources/lab_notebooks/) - Links to notebooks of current and past Alcalá Lab members, as well as archived notebooks.
