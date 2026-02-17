@@ -1,4 +1,4 @@
- Runs mkdocs-material theme for "readthedocs" documentation
+# Runs mkdocs-material theme for "readthedocs" documentation
 # Automatically deploys documentation to https://alcalalab.github.io/resources/
 name: mkdocs-material-theme-readthedocs
 on:
