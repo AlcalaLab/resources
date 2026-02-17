@@ -4,7 +4,7 @@ This repository serves as the central hub for [Alcalá Lab](https://www.wm.edu/a
 
 ## 📖 Quick Start
 
-- **New to the lab?** Start with the [Alcalá Lab Handbook] for comprehensive onboarding information
+- **New to the lab?** Start with the [Alcalá Lab Handbook](https://alcalalab.github.io/resources/docs/index.md) for comprehensive onboarding information
 - **Looking for protocols?** Browse our [Lab Protocols] collection
 - **Need help or have questions?** Submit an [issue](https://github.com/AlcalaLab/resources/issues) or join the discussion on [Slack](https://genome-protist.slack.com/)
 - **Major research projects** can be found [here]
