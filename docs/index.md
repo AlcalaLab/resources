@@ -8,6 +8,7 @@ Our hope is this is a one-stop spot for relevant lab information. You can use na
 ![GitHub contributors](https://img.shields.io/github/contributors/AlcalaLab/resources)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AlcalaLab/resources)
 
+---
 
 ## Just Getting Started?
 
