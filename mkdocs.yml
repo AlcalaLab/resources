@@ -11,12 +11,16 @@ edit_uri: blob/main/docs
 theme:
   name: material
   features:
+  features:
+    - navigation.instant
+    - navigation.tabs
     - content.action.edit
     - content.code.copy
   icon:
     edit: material/pencil
+  language: en
+  
   palette:
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
