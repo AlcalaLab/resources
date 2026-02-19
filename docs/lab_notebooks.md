@@ -4,9 +4,9 @@ An online lab notebook is required of all lab members. Entries need to be organi
 
 ## Notebooks
 
-Person | Notebook  | Commitment
---- | --- | ----
-Xyrus Maurer-Alcalá | TBD | TBD
+| Person | Notebook | Commitment |
+|----|----|----|
+|Xyrus Maurer-Alcalá | [xxmalcala.github.io](https://xxmalcala.github.io/xxma_notebook/notebook.html) | ![GitHub last commit](https://img.shields.io/github/last-commit/xxmalcala/xxma_notebook) |
 
 ## Platforms
 The current recommendation is ... not totally certain yet!
