@@ -8,6 +8,7 @@ An online lab notebook is required of all lab members. Entries need to be organi
 |----|----|----|
 |Xyrus Maurer-Alcalá | [xxmalcala.github.io](https://xxmalcala.github.io/xxma_notebook/notebook.html) | ![GitHub last commit](https://img.shields.io/github/last-commit/xxmalcala/xxma_notebook) |
 |Shama Hasan | [shamahasan.github.io](https://shamahasan.github.io/sh_notebook/notebook.html) | ![GitHub last commit](https://img.shields.io/github/last-commit/shamahasan/sh_notebook) |
+|Lucy Brennan | [lkbrennan5.github.io](https://lkbrennan5.github.io/lb-notebook/notebook.html) | ![GitHub last commit](https://img.shields.io/github/last-commit/lkbrennan5/lb-notebook) |
 
 ## Platforms
 The current recommendation is ... not totally certain yet!
